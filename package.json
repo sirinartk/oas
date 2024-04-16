@@ -35,7 +35,7 @@
     "inquirer": "^1.2.1",
     "json2yaml": "^1.1.0",
     "jsonfile": "^2.3.1",
-    "lodash": "^4.13.1",
+    "lodash": "^4.17.17",
     "minimist": "^1.2.0",
     "node-status": "^1.0.0",
     "oas-normalize": "0.0.3",
@@ -45,7 +45,7 @@
     "request": "^2.81.0",
     "swagger-inline": "1.0.2",
     "swagger-parser": "^3.4.1",
-    "swagger2-to-postman": "^1.1.0",
+    "swagger2-to-postman": "^1.1.9",
     "uslug": "^1.0.4",
     "yamljs": "^0.2.8"
   },
